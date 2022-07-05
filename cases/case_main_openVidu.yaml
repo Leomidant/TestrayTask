@@ -1,0 +1,36 @@
+FinalCase:
+  ParallelRoles: true
+  Vars:
+    TIME: 20
+    INTERFACE: en0
+    VIDEO_IN: "1"
+  Roles:
+    - Role: desktopChrome,desktopChrome2
+      Capabilities:
+        chromeOptions:
+          args:
+            - use-fake-ui-for-media-stream
+            - use-fake-device-for-media-stream
+            - use-file-for-fake-audio-capture=/user/silence.wav
+            - no-sandbox
+      App: desktop
+    - Role: desktopChrome3
+      Capabilities:
+        chromeOptions:
+          args:
+            - use-fake-ui-for-media-stream
+            - use-fake-device-for-media-stream
+            - no-sandbox
+            - use-file-for-fake-audio-capture=$AND_CMD_pwd$/Media/FakeSound.wav  
+            - use-file-for-fake-video-capture=$AND_CMD_pwd$/Media/FakeVideo.mjpeg            
+      App: desktop
+    - Role: commandLine,commandLine2,commandLine3
+      App: command
+  Actions:
+    - Given: I navigate and join room with some session name
+      Role: desktopChrome,desktopChrome2,desktopChrome3
+    - Then: I start recording audio, video and traces
+      Role: commandLine,commandLine2,commandLine3
+    - And: I end the session for all users
+    - Then: I start analyzing audio, video and traces
+    - And: I get the current date

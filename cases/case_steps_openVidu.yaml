@@ -1,0 +1,91 @@
+NavigateJoinRoom:
+  Step: I navigate and join room with some session name
+  Roles:
+    - Role: desktopChrome,desktopChrome2
+      Capabilities:
+        chromeOptions:
+          args:
+            - use-fake-ui-for-media-stream
+            - use-fake-device-for-media-stream
+            - use-file-for-fake-audio-capture=/user/silence.wav
+            - no-sandbox
+      App: desktop
+    - Role: desktopChrome3
+      Capabilities:
+        chromeOptions:
+          args:
+            - use-fake-ui-for-media-stream
+            - use-fake-device-for-media-stream
+            - no-sandbox
+            - use-file-for-fake-audio-capture=$AND_CMD_pwd$/Media/FakeSound.wav  
+            - use-file-for-fake-video-capture=$AND_CMD_pwd$/Media/FakeVideo.mjpeg            
+      App: desktop
+  Actions:
+    - Type: navigate
+      Role: desktopChrome,desktopChrome2,desktopChrome3
+      Value: https://demos.openvidu.io/basic-videoconference/
+    - Type: clear_field
+      Role: desktopChrome,desktopChrome2,desktopChrome3
+      Strategy: css
+      Id: "#sessionId"    
+    - Type: send_keys
+      Strategy: css
+      Id: "#sessionId"
+      Value: "FinalTask"
+      Role: desktopChrome,desktopChrome2,desktopChrome3
+    - Type: click
+      Strategy: xpath
+      Id: "//*[@name='commit']"
+      Role: desktopChrome,desktopChrome2,desktopChrome3
+    - Type: maximize
+
+
+
+Recordings:
+  ParallelRoles: true
+  Step: I start recording audio, video and traces
+  Roles:
+    - Role: commandLine,commandLine2,commandLine3
+      App: command
+  Actions:
+    - Type: command
+      Value: "tshark -q -i \"$AND_CLI_INTERFACE$\" -w trace.pcapng -a duration:$AND_CLI_TIME$"
+      Role: commandLine
+    - Type: command
+      Value: "sox -q -r 44100 -t coreaudio \"default\" record_audio.wav trim 0 $AND_CLI_TIME$"
+      Role: commandLine2
+    - Type: command
+      Value: "ffmpeg -v quiet -y -f avfoundation -t $AND_CLI_TIME$ -i \"$AND_CLI_VIDEO_IN$:\" record_video.mkv"
+      Role: commandLine3
+        
+
+EndCall:
+  Step: I end the session for all users
+  Roles:
+    - Role: desktopChrome,desktopChrome2,desktopChrome3
+      App: desktop
+  Actions:
+    - Type: stop_driver
+      Role: desktopChrome,desktopChrome2,desktopChrome3
+
+Analysis:
+  Step: I start analyzing audio, video and traces
+  Roles:
+    - Role: commandLine
+      App: command
+  Actions:
+    - Type: command
+      Value: sox record_audio.wav -b 16 record_audio_16b.wav
+    - Type: command
+      Value: docker run --rm -v '/Users/bekarazmadze/Desktop/Repos/Final Task':/home alvarolaserna/visqol:1.0 ./visqol.sh /home/record_audio_16b.wav /home/record_audio_16b.wav
+    - Type: command
+      Value: tshark -r trace.pcapng -qz io,stat,1
+
+Get Timestamp:
+  Step: I get the current date
+  Roles:
+    - Role: commandLine
+      App: command  
+  Actions:
+    - Type: command
+      Value: date +%D > date_start_test.txt

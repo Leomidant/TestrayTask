@@ -1,0 +1,5 @@
+Devices:
+  - role: desktopChrome,desktopChrome2,desktopChrome3
+    browser: chrome
+# COMMAND LINE ROLES
+  - role: commandLine,commandLine2,commandLine3

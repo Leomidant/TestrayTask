@@ -1,0 +1,472 @@
+[DEBUG] [20220704-030117]: Found roles: ["desktopChrome", "desktopChrome2", "desktopChrome2"]
+[INFO] [20220704-030117]: Starting creation and configuration of role handlers...
+[DEBUG] [20220704-030117]: Creating handler for case role 'desktopChrome'...
+[INFO] [20220704-030117]: Role 'desktopChrome': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}}
+[DEBUG] [20220704-030117]: Created handler for case role 'desktopChrome'
+[DEBUG] [20220704-030117]: Creating handler for case role 'desktopChrome2'...
+[INFO] [20220704-030117]: Role 'desktopChrome2': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}}
+[DEBUG] [20220704-030117]: Created handler for case role 'desktopChrome2'
+[DEBUG] [20220704-030117]: Creating handler for case role 'desktopChrome2'...
+[INFO] [20220704-030117]: Role 'desktopChrome2': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}}
+[DEBUG] [20220704-030117]: Created handler for case role 'desktopChrome2'
+[INFO] [20220704-030117]: All role handlers created and fully configured!
+[INFO] [20220704-030117]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}
+[INFO] [20220704-030118]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}
+[INFO] [20220704-030119]: Starting main case NavigateJoinRoom
+[DEBUG] [20220704-030119]: Case 'NavigateJoinRoom': adding sequential action: 'navigate' for role desktopChrome,desktopChrome2,desktopChrome2
+[INFO] [20220704-030119]: Role: 'desktopChrome', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-030121]: Role: 'desktopChrome2', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-030123]: Role: 'desktopChrome2', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-030123]: All cases have finished
+================================================================================
+[INFO] [20220704-030123]: Finished Case Execution for 'NavigateJoinRoom'
+================================================================================
+[INFO] [20220704-030123]: Stopping Appium drivers and servers...
+[INFO] [20220704-030123]: Role 'desktopChrome': Stopping Selenium driver... 
+Done!
+
+[INFO] [20220704-030123]: Role 'desktopChrome2': Stopping Selenium driver... 
+Done!
+
+[DEBUG] [20220704-030135]: Found roles: ["desktopChrome", "desktopChrome2", "desktopChrome2"]
+[INFO] [20220704-030135]: Starting creation and configuration of role handlers...
+[DEBUG] [20220704-030135]: Creating handler for case role 'desktopChrome'...
+[INFO] [20220704-030135]: Role 'desktopChrome': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}}
+[DEBUG] [20220704-030135]: Created handler for case role 'desktopChrome'
+[DEBUG] [20220704-030135]: Creating handler for case role 'desktopChrome2'...
+[INFO] [20220704-030135]: Role 'desktopChrome2': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}}
+[DEBUG] [20220704-030135]: Created handler for case role 'desktopChrome2'
+[DEBUG] [20220704-030135]: Creating handler for case role 'desktopChrome2'...
+[INFO] [20220704-030135]: Role 'desktopChrome2': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}}
+[DEBUG] [20220704-030135]: Created handler for case role 'desktopChrome2'
+[INFO] [20220704-030135]: All role handlers created and fully configured!
+[INFO] [20220704-030135]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}
+[INFO] [20220704-030136]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}
+[INFO] [20220704-030137]: Starting main case NavigateJoinRoom
+[DEBUG] [20220704-030137]: Case 'NavigateJoinRoom': adding sequential action: 'navigate' for role desktopChrome,desktopChrome2,desktopChrome2
+[INFO] [20220704-030137]: Role: 'desktopChrome', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-030138]: Role: 'desktopChrome2', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-030140]: Role: 'desktopChrome2', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-030140]: All cases have finished
+================================================================================
+[INFO] [20220704-030140]: Finished Case Execution for 'NavigateJoinRoom'
+================================================================================
+[INFO] [20220704-030140]: Stopping Appium drivers and servers...
+[INFO] [20220704-030140]: Role 'desktopChrome': Stopping Selenium driver... 
+Done!
+
+[INFO] [20220704-030141]: Role 'desktopChrome2': Stopping Selenium driver... 
+Done!
+
+[DEBUG] [20220704-030542]: Found roles: ["desktopChrome", "desktopChrome2", "desktopChrome2"]
+[INFO] [20220704-030542]: Starting creation and configuration of role handlers...
+[DEBUG] [20220704-030542]: Creating handler for case role 'desktopChrome'...
+[INFO] [20220704-030542]: Role 'desktopChrome': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}}
+[DEBUG] [20220704-030542]: Created handler for case role 'desktopChrome'
+[DEBUG] [20220704-030542]: Creating handler for case role 'desktopChrome2'...
+[INFO] [20220704-030542]: Role 'desktopChrome2': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}}
+[DEBUG] [20220704-030542]: Created handler for case role 'desktopChrome2'
+[DEBUG] [20220704-030542]: Creating handler for case role 'desktopChrome2'...
+[INFO] [20220704-030542]: Role 'desktopChrome2': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}}
+[DEBUG] [20220704-030542]: Created handler for case role 'desktopChrome2'
+[INFO] [20220704-030542]: All role handlers created and fully configured!
+[INFO] [20220704-030542]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}
+[INFO] [20220704-030543]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}
+[INFO] [20220704-030544]: Starting main case NavigateJoinRoom
+[DEBUG] [20220704-030544]: Case 'NavigateJoinRoom': adding sequential action: 'navigate' for role desktopChrome,desktopChrome2,desktopChrome2
+[DEBUG] [20220704-030544]: Case 'NavigateJoinRoom': adding sequential action: 'send_keys' 
+[DEBUG] [20220704-030544]: Case 'NavigateJoinRoom': adding sequential action: 'click' 
+[DEBUG] [20220704-030544]: Case 'NavigateJoinRoom': adding sequential action: 'sleep' 
+[INFO] [20220704-030544]: Role: 'desktopChrome', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-030546]: Role: 'desktopChrome2', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-030547]: Role: 'desktopChrome2', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-030548]: Role: 'desktopChrome', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-030548]: desktopChrome: Sending keys: FinalTask
+[INFO] [20220704-030548]: Role: 'desktopChrome2', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-030548]: desktopChrome2: Sending keys: FinalTask
+[INFO] [20220704-030548]: Role: 'desktopChrome2', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-030548]: desktopChrome2: Sending keys: FinalTask
+[INFO] [20220704-030548]: Role: 'desktopChrome', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-030548]: Role: 'desktopChrome2', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-030548]: Role: 'desktopChrome2', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-030549]: Role: 'desktopChrome', Action: 'sleep', Time: '3'
+[INFO] [20220704-030552]: Role: 'desktopChrome2', Action: 'sleep', Time: '3'
+[INFO] [20220704-030555]: Role: 'desktopChrome2', Action: 'sleep', Time: '3'
+[INFO] [20220704-030558]: All cases have finished
+================================================================================
+[INFO] [20220704-030558]: Finished Case Execution for 'NavigateJoinRoom'
+================================================================================
+[INFO] [20220704-030558]: Stopping Appium drivers and servers...
+[INFO] [20220704-030558]: Role 'desktopChrome': Stopping Selenium driver... 
+Done!
+
+[INFO] [20220704-030558]: Role 'desktopChrome2': Stopping Selenium driver... 
+Done!
+
+[DEBUG] [20220704-030907]: Found roles: ["desktopChrome", "desktopChrome2", "desktopChrome3"]
+[INFO] [20220704-030907]: Starting creation and configuration of role handlers...
+[DEBUG] [20220704-030907]: Creating handler for case role 'desktopChrome'...
+[INFO] [20220704-030907]: Role 'desktopChrome': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}}
+[DEBUG] [20220704-030907]: Created handler for case role 'desktopChrome'
+[DEBUG] [20220704-030907]: Creating handler for case role 'desktopChrome2'...
+[INFO] [20220704-030907]: Role 'desktopChrome2': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}}
+[DEBUG] [20220704-030907]: Created handler for case role 'desktopChrome2'
+[DEBUG] [20220704-030907]: Creating handler for case role 'desktopChrome3'...
+[INFO] [20220704-030907]: Role 'desktopChrome3': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}}
+[DEBUG] [20220704-030907]: Created handler for case role 'desktopChrome3'
+[INFO] [20220704-030907]: All role handlers created and fully configured!
+[INFO] [20220704-030907]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}
+[INFO] [20220704-030908]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}
+[INFO] [20220704-030909]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox"]}
+[INFO] [20220704-030910]: Starting main case NavigateJoinRoom
+[DEBUG] [20220704-030910]: Case 'NavigateJoinRoom': adding sequential action: 'navigate' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-030910]: Case 'NavigateJoinRoom': adding sequential action: 'clear_field' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-030910]: Case 'NavigateJoinRoom': adding sequential action: 'send_keys' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-030911]: Case 'NavigateJoinRoom': adding sequential action: 'click' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-030911]: Case 'NavigateJoinRoom': adding sequential action: 'sleep' 
+[INFO] [20220704-030911]: Role: 'desktopChrome', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-030912]: Role: 'desktopChrome2', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-030914]: Role: 'desktopChrome3', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-030916]: Role: 'desktopChrome', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-030916]: Role: 'desktopChrome2', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-030916]: Role: 'desktopChrome3', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-030916]: Role: 'desktopChrome', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-030916]: desktopChrome: Sending keys: FinalTask
+[INFO] [20220704-030916]: Role: 'desktopChrome2', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-030916]: desktopChrome2: Sending keys: FinalTask
+[INFO] [20220704-030916]: Role: 'desktopChrome3', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-030916]: desktopChrome3: Sending keys: FinalTask
+[INFO] [20220704-030916]: Role: 'desktopChrome', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-030916]: Role: 'desktopChrome2', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-030917]: Role: 'desktopChrome3', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-030917]: Role: 'desktopChrome', Action: 'sleep', Time: '3'
+[INFO] [20220704-030920]: Role: 'desktopChrome2', Action: 'sleep', Time: '3'
+[INFO] [20220704-030923]: Role: 'desktopChrome3', Action: 'sleep', Time: '3'
+[INFO] [20220704-030926]: All cases have finished
+================================================================================
+[INFO] [20220704-030926]: Finished Case Execution for 'NavigateJoinRoom'
+================================================================================
+[INFO] [20220704-030926]: Stopping Appium drivers and servers...
+[INFO] [20220704-030926]: Role 'desktopChrome': Stopping Selenium driver... 
+Done!
+
+[INFO] [20220704-030926]: Role 'desktopChrome2': Stopping Selenium driver... 
+Done!
+
+[INFO] [20220704-030926]: Role 'desktopChrome3': Stopping Selenium driver... 
+Done!
+
+[DEBUG] [20220704-030942]: Found roles: ["desktopChrome", "desktopChrome2", "desktopChrome3"]
+[INFO] [20220704-030942]: Starting creation and configuration of role handlers...
+[DEBUG] [20220704-030942]: Creating handler for case role 'desktopChrome'...
+[INFO] [20220704-030942]: Role 'desktopChrome': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream"]}}
+[DEBUG] [20220704-030942]: Created handler for case role 'desktopChrome'
+[DEBUG] [20220704-030942]: Creating handler for case role 'desktopChrome2'...
+[INFO] [20220704-030942]: Role 'desktopChrome2': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream"]}}
+[DEBUG] [20220704-030942]: Created handler for case role 'desktopChrome2'
+[DEBUG] [20220704-030942]: Creating handler for case role 'desktopChrome3'...
+[INFO] [20220704-030942]: Role 'desktopChrome3': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream"]}}
+[DEBUG] [20220704-030942]: Created handler for case role 'desktopChrome3'
+[INFO] [20220704-030942]: All role handlers created and fully configured!
+[INFO] [20220704-030942]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream"]}
+[INFO] [20220704-030943]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream"]}
+[INFO] [20220704-030944]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream"]}
+[INFO] [20220704-030945]: Starting main case NavigateJoinRoom
+[DEBUG] [20220704-030945]: Case 'NavigateJoinRoom': adding sequential action: 'navigate' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-030945]: Case 'NavigateJoinRoom': adding sequential action: 'clear_field' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-030945]: Case 'NavigateJoinRoom': adding sequential action: 'send_keys' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-030945]: Case 'NavigateJoinRoom': adding sequential action: 'click' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-030945]: Case 'NavigateJoinRoom': adding sequential action: 'sleep' 
+[INFO] [20220704-030945]: Role: 'desktopChrome', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-030947]: Role: 'desktopChrome2', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-030949]: Role: 'desktopChrome3', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-030950]: Role: 'desktopChrome', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-030950]: Role: 'desktopChrome2', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-030950]: Role: 'desktopChrome3', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-030950]: Role: 'desktopChrome', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-030950]: desktopChrome: Sending keys: FinalTask
+[INFO] [20220704-030950]: Role: 'desktopChrome2', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-030950]: desktopChrome2: Sending keys: FinalTask
+[INFO] [20220704-030951]: Role: 'desktopChrome3', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-030951]: desktopChrome3: Sending keys: FinalTask
+[INFO] [20220704-030951]: Role: 'desktopChrome', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-030951]: Role: 'desktopChrome2', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-030951]: Role: 'desktopChrome3', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-030952]: Role: 'desktopChrome', Action: 'sleep', Time: '10'
+[INFO] [20220704-031002]: Role: 'desktopChrome2', Action: 'sleep', Time: '10'
+[INFO] [20220704-031012]: Role: 'desktopChrome3', Action: 'sleep', Time: '10'
+[INFO] [20220704-031022]: All cases have finished
+================================================================================
+[INFO] [20220704-031022]: Finished Case Execution for 'NavigateJoinRoom'
+================================================================================
+[INFO] [20220704-031022]: Stopping Appium drivers and servers...
+[INFO] [20220704-031022]: Role 'desktopChrome': Stopping Selenium driver... 
+Done!
+
+[INFO] [20220704-031022]: Role 'desktopChrome2': Stopping Selenium driver... 
+Done!
+
+[INFO] [20220704-031022]: Role 'desktopChrome3': Stopping Selenium driver... 
+Done!
+
+[DEBUG] [20220704-031031]: Found roles: ["desktopChrome", "desktopChrome2", "desktopChrome3"]
+[INFO] [20220704-031031]: Starting creation and configuration of role handlers...
+[DEBUG] [20220704-031031]: Creating handler for case role 'desktopChrome'...
+[INFO] [20220704-031031]: Role 'desktopChrome': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-device-for-media-stream", "no-sandbox"]}}
+[DEBUG] [20220704-031031]: Created handler for case role 'desktopChrome'
+[DEBUG] [20220704-031031]: Creating handler for case role 'desktopChrome2'...
+[INFO] [20220704-031031]: Role 'desktopChrome2': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-device-for-media-stream", "no-sandbox"]}}
+[DEBUG] [20220704-031031]: Created handler for case role 'desktopChrome2'
+[DEBUG] [20220704-031031]: Creating handler for case role 'desktopChrome3'...
+[INFO] [20220704-031031]: Role 'desktopChrome3': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-device-for-media-stream", "no-sandbox"]}}
+[DEBUG] [20220704-031031]: Created handler for case role 'desktopChrome3'
+[INFO] [20220704-031031]: All role handlers created and fully configured!
+[INFO] [20220704-031031]: chromeOptions: {"args"=>["use-fake-device-for-media-stream", "no-sandbox"]}
+[INFO] [20220704-031032]: chromeOptions: {"args"=>["use-fake-device-for-media-stream", "no-sandbox"]}
+[INFO] [20220704-031033]: chromeOptions: {"args"=>["use-fake-device-for-media-stream", "no-sandbox"]}
+[INFO] [20220704-031034]: Starting main case NavigateJoinRoom
+[DEBUG] [20220704-031034]: Case 'NavigateJoinRoom': adding sequential action: 'navigate' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-031034]: Case 'NavigateJoinRoom': adding sequential action: 'clear_field' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-031034]: Case 'NavigateJoinRoom': adding sequential action: 'send_keys' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-031034]: Case 'NavigateJoinRoom': adding sequential action: 'click' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-031035]: Case 'NavigateJoinRoom': adding sequential action: 'sleep' 
+[INFO] [20220704-031035]: Role: 'desktopChrome', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-031036]: Role: 'desktopChrome2', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-031038]: Role: 'desktopChrome3', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-031040]: Role: 'desktopChrome', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-031040]: Role: 'desktopChrome2', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-031040]: Role: 'desktopChrome3', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-031040]: Role: 'desktopChrome', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-031040]: desktopChrome: Sending keys: FinalTask
+[INFO] [20220704-031040]: Role: 'desktopChrome2', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-031040]: desktopChrome2: Sending keys: FinalTask
+[INFO] [20220704-031040]: Role: 'desktopChrome3', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-031040]: desktopChrome3: Sending keys: FinalTask
+[INFO] [20220704-031040]: Role: 'desktopChrome', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-031040]: Role: 'desktopChrome2', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-031041]: Role: 'desktopChrome3', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-031041]: Role: 'desktopChrome', Action: 'sleep', Time: '10'
+[INFO] [20220704-031051]: Role: 'desktopChrome2', Action: 'sleep', Time: '10'
+[INFO] [20220704-031101]: Role: 'desktopChrome3', Action: 'sleep', Time: '10'
+[INFO] [20220704-031111]: All cases have finished
+================================================================================
+[INFO] [20220704-031111]: Finished Case Execution for 'NavigateJoinRoom'
+================================================================================
+[INFO] [20220704-031111]: Stopping Appium drivers and servers...
+[INFO] [20220704-031111]: Role 'desktopChrome': Stopping Selenium driver... 
+Done!
+
+[INFO] [20220704-031111]: Role 'desktopChrome2': Stopping Selenium driver... 
+Done!
+
+[INFO] [20220704-031111]: Role 'desktopChrome3': Stopping Selenium driver... 
+Done!
+
+[DEBUG] [20220704-032500]: Found roles: ["desktopChrome", "desktopChrome2", "desktopChrome3"]
+[INFO] [20220704-032500]: Starting creation and configuration of role handlers...
+[DEBUG] [20220704-032500]: Creating handler for case role 'desktopChrome'...
+[INFO] [20220704-032500]: Role 'desktopChrome': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}}
+[DEBUG] [20220704-032500]: Created handler for case role 'desktopChrome'
+[DEBUG] [20220704-032500]: Creating handler for case role 'desktopChrome2'...
+[INFO] [20220704-032500]: Role 'desktopChrome2': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}}
+[DEBUG] [20220704-032500]: Created handler for case role 'desktopChrome2'
+[DEBUG] [20220704-032500]: Creating handler for case role 'desktopChrome3'...
+[INFO] [20220704-032500]: Role 'desktopChrome3': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox", "use-file-for-fake-audio-capture=/user/silence.wav"]}}
+[DEBUG] [20220704-032500]: Created handler for case role 'desktopChrome3'
+[INFO] [20220704-032500]: All role handlers created and fully configured!
+[INFO] [20220704-032500]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}
+[INFO] [20220704-032502]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}
+[INFO] [20220704-032503]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox", "use-file-for-fake-audio-capture=/user/silence.wav"]}
+[INFO] [20220704-032504]: Starting main case NavigateJoinRoom
+[DEBUG] [20220704-032504]: Case 'NavigateJoinRoom': adding sequential action: 'navigate' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-032504]: Case 'NavigateJoinRoom': adding sequential action: 'clear_field' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-032504]: Case 'NavigateJoinRoom': adding sequential action: 'send_keys' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-032504]: Case 'NavigateJoinRoom': adding sequential action: 'click' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-032504]: Case 'NavigateJoinRoom': adding sequential action: 'sleep' 
+[INFO] [20220704-032504]: Role: 'desktopChrome', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-032506]: Role: 'desktopChrome2', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-032508]: Role: 'desktopChrome3', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-032510]: Role: 'desktopChrome', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-032510]: Role: 'desktopChrome2', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-032510]: Role: 'desktopChrome3', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-032510]: Role: 'desktopChrome', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-032510]: desktopChrome: Sending keys: FinalTask
+[INFO] [20220704-032510]: Role: 'desktopChrome2', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-032510]: desktopChrome2: Sending keys: FinalTask
+[INFO] [20220704-032510]: Role: 'desktopChrome3', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-032510]: desktopChrome3: Sending keys: FinalTask
+[INFO] [20220704-032510]: Role: 'desktopChrome', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-032510]: Role: 'desktopChrome2', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-032510]: Role: 'desktopChrome3', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-032511]: Role: 'desktopChrome', Action: 'sleep', Time: '10'
+[INFO] [20220704-032521]: Role: 'desktopChrome2', Action: 'sleep', Time: '10'
+[INFO] [20220704-032531]: All cases have finished
+================================================================================
+[INFO] [20220704-032531]: Finished Case Execution for 'NavigateJoinRoom'
+================================================================================
+[INFO] [20220704-032531]: Stopping Appium drivers and servers...
+[INFO] [20220704-032531]: Role 'desktopChrome': Stopping Selenium driver... 
+Done!
+
+[INFO] [20220704-032531]: Role 'desktopChrome2': Stopping Selenium driver... 
+Done!
+
+[INFO] [20220704-032531]: Role 'desktopChrome3': Stopping Selenium driver... 
+Done!
+
+[DEBUG] [20220704-033407]: Found roles: ["desktopChrome", "desktopChrome2", "desktopChrome3"]
+[INFO] [20220704-033407]: Starting creation and configuration of role handlers...
+[DEBUG] [20220704-033407]: Creating handler for case role 'desktopChrome'...
+[INFO] [20220704-033407]: Role 'desktopChrome': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}}
+[DEBUG] [20220704-033407]: Created handler for case role 'desktopChrome'
+[DEBUG] [20220704-033407]: Creating handler for case role 'desktopChrome2'...
+[INFO] [20220704-033407]: Role 'desktopChrome2': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}}
+[DEBUG] [20220704-033407]: Created handler for case role 'desktopChrome2'
+[DEBUG] [20220704-033407]: Creating handler for case role 'desktopChrome3'...
+[INFO] [20220704-033407]: Role 'desktopChrome3': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox", "use-file-for-fake-audio-capture=/user/silence.wav", "use-file-for-fake-video-capture=/Users/bekarazmadze/Desktop/Videos/first.mjpeg"]}}
+[DEBUG] [20220704-033407]: Created handler for case role 'desktopChrome3'
+[INFO] [20220704-033407]: All role handlers created and fully configured!
+[INFO] [20220704-033407]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}
+[INFO] [20220704-033409]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}
+[INFO] [20220704-033410]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox", "use-file-for-fake-audio-capture=/user/silence.wav", "use-file-for-fake-video-capture=/Users/bekarazmadze/Desktop/Videos/first.mjpeg"]}
+[INFO] [20220704-033411]: Starting main case NavigateJoinRoom
+[DEBUG] [20220704-033411]: Case 'NavigateJoinRoom': adding sequential action: 'navigate' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-033411]: Case 'NavigateJoinRoom': adding sequential action: 'clear_field' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-033411]: Case 'NavigateJoinRoom': adding sequential action: 'send_keys' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-033411]: Case 'NavigateJoinRoom': adding sequential action: 'click' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-033411]: Case 'NavigateJoinRoom': adding sequential action: 'sleep' 
+[INFO] [20220704-033411]: Role: 'desktopChrome', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-033413]: Role: 'desktopChrome2', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-033414]: Role: 'desktopChrome3', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-033416]: Role: 'desktopChrome', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-033416]: Role: 'desktopChrome2', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-033416]: Role: 'desktopChrome3', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-033416]: Role: 'desktopChrome', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-033416]: desktopChrome: Sending keys: FinalTask
+[INFO] [20220704-033416]: Role: 'desktopChrome2', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-033416]: desktopChrome2: Sending keys: FinalTask
+[INFO] [20220704-033416]: Role: 'desktopChrome3', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-033416]: desktopChrome3: Sending keys: FinalTask
+[INFO] [20220704-033416]: Role: 'desktopChrome', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-033417]: Role: 'desktopChrome2', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-033417]: Role: 'desktopChrome3', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-033417]: Role: 'desktopChrome', Action: 'sleep', Time: '10'
+[INFO] [20220704-033427]: Role: 'desktopChrome2', Action: 'sleep', Time: '10'
+[INFO] [20220704-033437]: All cases have finished
+================================================================================
+[INFO] [20220704-033437]: Finished Case Execution for 'NavigateJoinRoom'
+================================================================================
+[INFO] [20220704-033437]: Stopping Appium drivers and servers...
+[INFO] [20220704-033437]: Role 'desktopChrome': Stopping Selenium driver... 
+Done!
+
+[INFO] [20220704-033438]: Role 'desktopChrome2': Stopping Selenium driver... 
+Done!
+
+[INFO] [20220704-033438]: Role 'desktopChrome3': Stopping Selenium driver... 
+Done!
+
+[DEBUG] [20220704-034315]: Found roles: ["desktopChrome", "desktopChrome2", "desktopChrome3"]
+[INFO] [20220704-034315]: Starting creation and configuration of role handlers...
+[DEBUG] [20220704-034315]: Creating handler for case role 'desktopChrome'...
+[INFO] [20220704-034315]: Role 'desktopChrome': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}}
+[DEBUG] [20220704-034315]: Created handler for case role 'desktopChrome'
+[DEBUG] [20220704-034315]: Creating handler for case role 'desktopChrome2'...
+[INFO] [20220704-034315]: Role 'desktopChrome2': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}}
+[DEBUG] [20220704-034315]: Created handler for case role 'desktopChrome2'
+[DEBUG] [20220704-034315]: Creating handler for case role 'desktopChrome3'...
+[INFO] [20220704-034315]: Role 'desktopChrome3': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox", "use-file-for-fake-audio-capture=/Users/bekarazmadze/Desktop/Repos/Final Task/Media/FakeSound.mjpeg", "use-file-for-fake-video-capture=/Users/bekarazmadze/Desktop/Repos/Final Task/Media/FakeVideo.mjpeg"]}}
+[DEBUG] [20220704-034315]: Created handler for case role 'desktopChrome3'
+[INFO] [20220704-034315]: All role handlers created and fully configured!
+[INFO] [20220704-034315]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}
+[INFO] [20220704-034316]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}
+[INFO] [20220704-034317]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox", "use-file-for-fake-audio-capture=/Users/bekarazmadze/Desktop/Repos/Final Task/Media/FakeSound.mjpeg", "use-file-for-fake-video-capture=/Users/bekarazmadze/Desktop/Repos/Final Task/Media/FakeVideo.mjpeg"]}
+[INFO] [20220704-034318]: Starting main case NavigateJoinRoom
+[DEBUG] [20220704-034318]: Case 'NavigateJoinRoom': adding sequential action: 'navigate' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-034318]: Case 'NavigateJoinRoom': adding sequential action: 'clear_field' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-034318]: Case 'NavigateJoinRoom': adding sequential action: 'send_keys' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-034318]: Case 'NavigateJoinRoom': adding sequential action: 'click' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-034318]: Case 'NavigateJoinRoom': adding sequential action: 'sleep' 
+[INFO] [20220704-034318]: Role: 'desktopChrome', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-034320]: Role: 'desktopChrome2', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-034322]: Role: 'desktopChrome3', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-034324]: Role: 'desktopChrome', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-034324]: Role: 'desktopChrome2', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-034324]: Role: 'desktopChrome3', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-034324]: Role: 'desktopChrome', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-034324]: desktopChrome: Sending keys: FinalTask
+[INFO] [20220704-034324]: Role: 'desktopChrome2', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-034324]: desktopChrome2: Sending keys: FinalTask
+[INFO] [20220704-034324]: Role: 'desktopChrome3', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-034324]: desktopChrome3: Sending keys: FinalTask
+[INFO] [20220704-034324]: Role: 'desktopChrome', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-034324]: Role: 'desktopChrome2', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-034325]: Role: 'desktopChrome3', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-034325]: Role: 'desktopChrome', Action: 'sleep', Time: '10'
+[INFO] [20220704-034335]: Role: 'desktopChrome2', Action: 'sleep', Time: '10'
+[INFO] [20220704-034345]: All cases have finished
+================================================================================
+[INFO] [20220704-034345]: Finished Case Execution for 'NavigateJoinRoom'
+================================================================================
+[INFO] [20220704-034345]: Stopping Appium drivers and servers...
+[INFO] [20220704-034345]: Role 'desktopChrome': Stopping Selenium driver... 
+Done!
+
+[INFO] [20220704-034345]: Role 'desktopChrome2': Stopping Selenium driver... 
+Done!
+
+[INFO] [20220704-034345]: Role 'desktopChrome3': Stopping Selenium driver... 
+Done!
+
+[DEBUG] [20220704-034353]: Found roles: ["desktopChrome", "desktopChrome2", "desktopChrome3"]
+[INFO] [20220704-034353]: Starting creation and configuration of role handlers...
+[DEBUG] [20220704-034353]: Creating handler for case role 'desktopChrome'...
+[INFO] [20220704-034353]: Role 'desktopChrome': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}}
+[DEBUG] [20220704-034353]: Created handler for case role 'desktopChrome'
+[DEBUG] [20220704-034353]: Creating handler for case role 'desktopChrome2'...
+[INFO] [20220704-034353]: Role 'desktopChrome2': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}}
+[DEBUG] [20220704-034353]: Created handler for case role 'desktopChrome2'
+[DEBUG] [20220704-034353]: Creating handler for case role 'desktopChrome3'...
+[INFO] [20220704-034353]: Role 'desktopChrome3': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox", "use-file-for-fake-audio-capture=/Users/bekarazmadze/Desktop/Repos/Final Task/Media/FakeSound.wav", "use-file-for-fake-video-capture=/Users/bekarazmadze/Desktop/Repos/Final Task/Media/FakeVideo.mjpeg"]}}
+[DEBUG] [20220704-034353]: Created handler for case role 'desktopChrome3'
+[INFO] [20220704-034353]: All role handlers created and fully configured!
+[INFO] [20220704-034353]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}
+[INFO] [20220704-034354]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}
+[INFO] [20220704-034355]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox", "use-file-for-fake-audio-capture=/Users/bekarazmadze/Desktop/Repos/Final Task/Media/FakeSound.wav", "use-file-for-fake-video-capture=/Users/bekarazmadze/Desktop/Repos/Final Task/Media/FakeVideo.mjpeg"]}
+[INFO] [20220704-034356]: Starting main case NavigateJoinRoom
+[DEBUG] [20220704-034356]: Case 'NavigateJoinRoom': adding sequential action: 'navigate' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-034356]: Case 'NavigateJoinRoom': adding sequential action: 'clear_field' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-034356]: Case 'NavigateJoinRoom': adding sequential action: 'send_keys' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-034356]: Case 'NavigateJoinRoom': adding sequential action: 'click' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220704-034356]: Case 'NavigateJoinRoom': adding sequential action: 'sleep' 
+[INFO] [20220704-034356]: Role: 'desktopChrome', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-034358]: Role: 'desktopChrome2', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-034400]: Role: 'desktopChrome3', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220704-034402]: Role: 'desktopChrome', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-034402]: Role: 'desktopChrome2', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-034402]: Role: 'desktopChrome3', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220704-034402]: Role: 'desktopChrome', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-034402]: desktopChrome: Sending keys: FinalTask
+[INFO] [20220704-034402]: Role: 'desktopChrome2', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-034402]: desktopChrome2: Sending keys: FinalTask
+[INFO] [20220704-034402]: Role: 'desktopChrome3', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220704-034402]: desktopChrome3: Sending keys: FinalTask
+[INFO] [20220704-034402]: Role: 'desktopChrome', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-034402]: Role: 'desktopChrome2', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-034403]: Role: 'desktopChrome3', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220704-034403]: Role: 'desktopChrome', Action: 'sleep', Time: '10'
+[INFO] [20220704-034413]: Role: 'desktopChrome2', Action: 'sleep', Time: '10'
+[INFO] [20220704-034423]: All cases have finished
+================================================================================
+[INFO] [20220704-034423]: Finished Case Execution for 'NavigateJoinRoom'
+================================================================================
+[INFO] [20220704-034423]: Stopping Appium drivers and servers...
+[INFO] [20220704-034423]: Role 'desktopChrome': Stopping Selenium driver... 
+Done!
+
+[INFO] [20220704-034423]: Role 'desktopChrome2': Stopping Selenium driver... 
+Done!
+
+[INFO] [20220704-034423]: Role 'desktopChrome3': Stopping Selenium driver... 
+Done!
+

@@ -1,0 +1,107 @@
+[DEBUG] [20220704-055739]: Found roles: ["commandLine"]
+[INFO] [20220704-055739]: Starting creation and configuration of role handlers...
+[DEBUG] [20220704-055739]: Creating handler for case role 'commandLine'...
+[DEBUG] [20220704-055739]: Created handler for case role 'commandLine'
+[INFO] [20220704-055739]: All role handlers created and fully configured!
+[INFO] [20220704-055739]: Starting main case Get Timestamp
+[DEBUG] [20220704-055739]: Case 'Get Timestamp': adding sequential action: 'get_timestamp' 
+[INFO] [20220704-055739]: Role: 'commandLine', Action: 'get_timestamp', Value: ''
+[INFO] [20220704-055739]: Timestamp is: 
+[INFO] [20220704-055739]: All cases have finished
+================================================================================
+[INFO] [20220704-055739]: Finished Case Execution for 'Get Timestamp'
+================================================================================
+[INFO] [20220704-055739]: Stopping Appium drivers and servers...
+[DEBUG] [20220704-055818]: Found roles: ["desktopChrome"]
+[INFO] [20220704-055818]: Starting creation and configuration of role handlers...
+[DEBUG] [20220704-055818]: Creating handler for case role 'desktopChrome'...
+[DEBUG] [20220704-055818]: Created handler for case role 'desktopChrome'
+[INFO] [20220704-055818]: All role handlers created and fully configured!
+[INFO] [20220704-055818]: chromeOptions: {}
+[INFO] [20220704-055820]: Starting main case Get Timestamp
+[DEBUG] [20220704-055820]: Case 'Get Timestamp': adding sequential action: 'get_timestamp' 
+[INFO] [20220704-055820]: Role: 'desktopChrome', Action: 'get_timestamp', Value: ''
+[INFO] [20220704-055820]: Timestamp is: 
+[INFO] [20220704-055820]: All cases have finished
+================================================================================
+[INFO] [20220704-055820]: Finished Case Execution for 'Get Timestamp'
+================================================================================
+[INFO] [20220704-055820]: Stopping Appium drivers and servers...
+[INFO] [20220704-055820]: Role 'desktopChrome': Stopping Selenium driver... 
+Done!
+
+[DEBUG] [20220704-055840]: Found roles: ["commandLine"]
+[INFO] [20220704-055840]: Starting creation and configuration of role handlers...
+[DEBUG] [20220704-055840]: Creating handler for case role 'commandLine'...
+[DEBUG] [20220704-055840]: Created handler for case role 'commandLine'
+[INFO] [20220704-055840]: All role handlers created and fully configured!
+[INFO] [20220704-055840]: Starting main case Get Timestamp
+[DEBUG] [20220704-055840]: Case 'Get Timestamp': adding sequential action: 'get_timestamp' 
+[INFO] [20220704-055840]: Role: 'commandLine', Action: 'get_timestamp', Value: ''
+[INFO] [20220704-055840]: Timestamp is: 
+[INFO] [20220704-055840]: All cases have finished
+================================================================================
+[INFO] [20220704-055840]: Finished Case Execution for 'Get Timestamp'
+================================================================================
+[INFO] [20220704-055840]: Stopping Appium drivers and servers...
+[DEBUG] [20220704-060332]: Found roles: ["commandLine"]
+[INFO] [20220704-060332]: Starting creation and configuration of role handlers...
+[DEBUG] [20220704-060332]: Creating handler for case role 'commandLine'...
+[DEBUG] [20220704-060332]: Created handler for case role 'commandLine'
+[INFO] [20220704-060332]: All role handlers created and fully configured!
+[INFO] [20220704-060332]: Starting main case Get Timestamp
+[DEBUG] [20220704-060332]: Case 'Get Timestamp': adding sequential action: 'command' 
+[INFO] [20220704-060332]: Role: 'commandLine', Action: 'command', Value: 'echo date +%D > date_start_test.txt'
+[INFO] [20220704-060332]: commandLine: running command: echo date +%D > date_start_test.txt
+[INFO] [20220704-060332]: commandLine: command output: 
+[INFO] [20220704-060332]: All cases have finished
+================================================================================
+[INFO] [20220704-060332]: Finished Case Execution for 'Get Timestamp'
+================================================================================
+[INFO] [20220704-060332]: Stopping Appium drivers and servers...
+[DEBUG] [20220704-060411]: Found roles: ["commandLine"]
+[INFO] [20220704-060411]: Starting creation and configuration of role handlers...
+[DEBUG] [20220704-060411]: Creating handler for case role 'commandLine'...
+[DEBUG] [20220704-060411]: Created handler for case role 'commandLine'
+[INFO] [20220704-060411]: All role handlers created and fully configured!
+[INFO] [20220704-060411]: Starting main case Get Timestamp
+[DEBUG] [20220704-060411]: Case 'Get Timestamp': adding sequential action: 'command' 
+[INFO] [20220704-060411]: Role: 'commandLine', Action: 'command', Value: 'echo date +%D > date_start_test.txt'
+[INFO] [20220704-060411]: commandLine: running command: echo date +%D > date_start_test.txt
+[INFO] [20220704-060411]: commandLine: command output: 
+[INFO] [20220704-060411]: All cases have finished
+================================================================================
+[INFO] [20220704-060411]: Finished Case Execution for 'Get Timestamp'
+================================================================================
+[INFO] [20220704-060411]: Stopping Appium drivers and servers...
+[DEBUG] [20220704-060433]: Found roles: ["commandLine"]
+[INFO] [20220704-060433]: Starting creation and configuration of role handlers...
+[DEBUG] [20220704-060433]: Creating handler for case role 'commandLine'...
+[DEBUG] [20220704-060433]: Created handler for case role 'commandLine'
+[INFO] [20220704-060433]: All role handlers created and fully configured!
+[INFO] [20220704-060433]: Starting main case Get Timestamp
+[DEBUG] [20220704-060433]: Case 'Get Timestamp': adding sequential action: 'command' 
+[INFO] [20220704-060433]: Role: 'commandLine', Action: 'command', Value: 'date +%D'
+[INFO] [20220704-060433]: commandLine: running command: date +%D
+[INFO] [20220704-060433]: commandLine: command output: 07/04/22
+
+[INFO] [20220704-060433]: All cases have finished
+================================================================================
+[INFO] [20220704-060433]: Finished Case Execution for 'Get Timestamp'
+================================================================================
+[INFO] [20220704-060433]: Stopping Appium drivers and servers...
+[DEBUG] [20220704-060442]: Found roles: ["commandLine"]
+[INFO] [20220704-060442]: Starting creation and configuration of role handlers...
+[DEBUG] [20220704-060442]: Creating handler for case role 'commandLine'...
+[DEBUG] [20220704-060442]: Created handler for case role 'commandLine'
+[INFO] [20220704-060442]: All role handlers created and fully configured!
+[INFO] [20220704-060442]: Starting main case Get Timestamp
+[DEBUG] [20220704-060442]: Case 'Get Timestamp': adding sequential action: 'command' 
+[INFO] [20220704-060442]: Role: 'commandLine', Action: 'command', Value: 'date +%D > date_start_test.txt'
+[INFO] [20220704-060442]: commandLine: running command: date +%D > date_start_test.txt
+[INFO] [20220704-060442]: commandLine: command output: 
+[INFO] [20220704-060442]: All cases have finished
+================================================================================
+[INFO] [20220704-060442]: Finished Case Execution for 'Get Timestamp'
+================================================================================
+[INFO] [20220704-060442]: Stopping Appium drivers and servers...
