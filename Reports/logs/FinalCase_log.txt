@@ -2107,3 +2107,61 @@ Failed to open TCP connection to 127.0.0.1:9516 (Connection refused - connect(2)
 [WARN] [20220704-133259]: Could not quit driver for desktopChrome3. Error:
 [WARN] [20220704-133259]: Role 'desktopChrome3': Could not stop the driver:
 Failed to open TCP connection to 127.0.0.1:9517 (Connection refused - connect(2) for "127.0.0.1" port 9517)
+[DEBUG] [20220706-105007]: Found roles: ["desktopChrome", "desktopChrome2", "desktopChrome3", "commandLine", "commandLine2", "commandLine3"]
+[INFO] [20220706-105007]: Starting creation and configuration of role handlers...
+[DEBUG] [20220706-105007]: Creating handler for case role 'desktopChrome'...
+[INFO] [20220706-105007]: Role 'desktopChrome': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}}
+[DEBUG] [20220706-105007]: Created handler for case role 'desktopChrome'
+[DEBUG] [20220706-105007]: Creating handler for case role 'desktopChrome2'...
+[INFO] [20220706-105007]: Role 'desktopChrome2': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}}
+[DEBUG] [20220706-105007]: Created handler for case role 'desktopChrome2'
+[DEBUG] [20220706-105007]: Creating handler for case role 'desktopChrome3'...
+[INFO] [20220706-105007]: Role 'desktopChrome3': Adding capabilities from case: {"chromeOptions"=>{"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox", "use-file-for-fake-audio-capture=/Users/bekarazmadze/Desktop/Repos/Final Task/Media/FakeSound.wav", "use-file-for-fake-video-capture=/Users/bekarazmadze/Desktop/Repos/Final Task/Media/FakeVideo.mjpeg"]}}
+[DEBUG] [20220706-105007]: Created handler for case role 'desktopChrome3'
+[DEBUG] [20220706-105007]: Creating handler for case role 'commandLine'...
+[DEBUG] [20220706-105007]: Created handler for case role 'commandLine'
+[DEBUG] [20220706-105007]: Creating handler for case role 'commandLine2'...
+[DEBUG] [20220706-105007]: Created handler for case role 'commandLine2'
+[DEBUG] [20220706-105007]: Creating handler for case role 'commandLine3'...
+[DEBUG] [20220706-105007]: Created handler for case role 'commandLine3'
+[INFO] [20220706-105007]: All role handlers created and fully configured!
+[INFO] [20220706-105007]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}
+[INFO] [20220706-105008]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "use-file-for-fake-audio-capture=/user/silence.wav", "no-sandbox"]}
+[INFO] [20220706-105009]: chromeOptions: {"args"=>["use-fake-ui-for-media-stream", "use-fake-device-for-media-stream", "no-sandbox", "use-file-for-fake-audio-capture=/Users/bekarazmadze/Desktop/Repos/Final Task/Media/FakeSound.wav", "use-file-for-fake-video-capture=/Users/bekarazmadze/Desktop/Repos/Final Task/Media/FakeVideo.mjpeg"]}
+[INFO] [20220706-105010]: Starting main case FinalCase
+[DEBUG] [20220706-105010]: Case 'FinalCase': adding case 'I navigate and join room with some session name' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220706-105010]: Case 'I navigate and join room with some session name': adding sequential action: 'navigate' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220706-105010]: Case 'I navigate and join room with some session name': adding sequential action: 'clear_field' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220706-105010]: Case 'I navigate and join room with some session name': adding sequential action: 'send_keys' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220706-105010]: Case 'I navigate and join room with some session name': adding sequential action: 'click' for role desktopChrome,desktopChrome2,desktopChrome3
+[DEBUG] [20220706-105010]: Case 'I navigate and join room with some session name': adding sequential action: 'maximize' 
+[INFO] [20220706-105010]: Role: 'desktopChrome', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220706-105012]: Role: 'desktopChrome2', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220706-105014]: Role: 'desktopChrome3', Action: 'navigate', Value: 'https://demos.openvidu.io/basic-videoconference/'
+[INFO] [20220706-105015]: Role: 'desktopChrome', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220706-105015]: Role: 'desktopChrome2', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220706-105016]: Role: 'desktopChrome3', Action: 'clear_field', Element: 'css:#sessionId'
+[INFO] [20220706-105016]: Role: 'desktopChrome', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220706-105016]: desktopChrome: Sending keys: FinalTask
+[INFO] [20220706-105016]: Role: 'desktopChrome2', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220706-105016]: desktopChrome2: Sending keys: FinalTask
+[INFO] [20220706-105016]: Role: 'desktopChrome3', Action: 'send_keys', Element: 'css:#sessionId', Value: 'FinalTask'
+[INFO] [20220706-105016]: desktopChrome3: Sending keys: FinalTask
+[INFO] [20220706-105016]: Role: 'desktopChrome', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220706-105016]: Role: 'desktopChrome2', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220706-105016]: Role: 'desktopChrome3', Action: 'click', Element: 'xpath://*[@name='commit']'
+[INFO] [20220706-105017]: Role: 'desktopChrome', Action: 'maximize', Value: ''
+[INFO] [20220706-105017]: Role: 'desktopChrome2', Action: 'maximize', Value: ''
+[INFO] [20220706-105017]: Role: 'desktopChrome3', Action: 'maximize', Value: ''
+[INFO] [20220706-105017]: Finished case I navigate and join room with some session name, resuming parent case FinalCase
+Given I navigate and join room with some session name
+[DEBUG] [20220706-105017]: Case 'FinalCase': adding case 'I start recording audio, video and traces' for role commandLine,commandLine2,commandLine3
+[DEBUG] [20220706-105017]: Case 'I start recording audio, video and traces': adding parallel action: 'command' for role commandLine
+[DEBUG] [20220706-105017]: Case 'I start recording audio, video and traces': adding parallel action: 'command' for role commandLine2
+[DEBUG] [20220706-105017]: Case 'I start recording audio, video and traces': adding parallel action: 'command' for role commandLine3
+[INFO] [20220706-105017]: Role: 'commandLine2', Action: 'command', Value: 'sox -q -r 44100 -t coreaudio "default" record_audio.wav trim 0 $AND_CLI_TIME$'
+[INFO] [20220706-105017]: Role: 'commandLine', Action: 'command', Value: 'tshark -q -i "$AND_CLI_INTERFACE$" -w trace.pcapng -a duration:$AND_CLI_TIME$'
+[INFO] [20220706-105017]: Role: 'commandLine3', Action: 'command', Value: 'ffmpeg -v quiet -y -f avfoundation -t $AND_CLI_TIME$ -i "$AND_CLI_VIDEO_IN$:" record_video.mkv'
+[INFO] [20220706-105017]: commandLine2: running command: sox -q -r 44100 -t coreaudio "default" record_audio.wav trim 0 20
+[INFO] [20220706-105017]: commandLine: running command: tshark -q -i "en0" -w trace.pcapng -a duration:20
+[INFO] [20220706-105017]: commandLine3: running command: ffmpeg -v quiet -y -f avfoundation -t 20 -i "1:" record_video.mkv
