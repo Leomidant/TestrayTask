@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/ffi/ffi
+  revision: 1d448cfa3be018e385ac39bce8cc32dcc27c91e2
+  specs:
+    ffi (1.15.5)
+
 GEM
   specs:
 
@@ -5,6 +11,7 @@ PLATFORMS
   arm64-darwin-21
 
 DEPENDENCIES
+  ffi!
 
 BUNDLED WITH
    2.3.17
