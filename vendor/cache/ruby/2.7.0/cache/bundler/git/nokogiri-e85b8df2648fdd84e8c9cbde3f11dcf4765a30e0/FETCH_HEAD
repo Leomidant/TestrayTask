@@ -1,0 +1,177 @@
+dd12a73f41ee55e7c4c300ddb8af1e2884cf5b91		branch '1500-sax-parser-replace-entities' of https://github.com/sparklemotion/nokogiri
+426fd8909ab0cef956ed9549f6d575191d7eb519		branch '1610-flavorjones-nokogiri-error-raise-considered-harmful' of https://github.com/sparklemotion/nokogiri
+cf0392e87b11dfd26f6aefc56ee1a9dfec43d809		branch '1790-better-attr-renamespacing' of https://github.com/sparklemotion/nokogiri
+6049c5bbf51542dda61c63467d23debe1fe79e3d		branch '2410-jruby-use-a-modern-c14n-library' of https://github.com/sparklemotion/nokogiri
+0ec72dd887c8d949cc62676b1521acf3eb15fd55		branch 'c14n' of https://github.com/sparklemotion/nokogiri
+da144662723e1a29dea80c5a7ecfb0928164f093		branch 'c14n4j' of https://github.com/sparklemotion/nokogiri
+fd533f31323bf33726bbc684d8458fdfd72bd6a4		branch 'dependabot/bundler/rubocop-tw-1.31.1' of https://github.com/sparklemotion/nokogiri
+0fd5321931c80250743d322381eb571a90a7f926		branch 'fix-compaction-on-nodes' of https://github.com/sparklemotion/nokogiri
+85d0570f34d0743db698d3d7d105022861912951		branch 'flavorjones-clean-up-xml-schema' of https://github.com/sparklemotion/nokogiri
+44ca985f3378af4a1dd2dab0637a8ca2e61d531c		branch 'flavorjones-pattern-matching' of https://github.com/sparklemotion/nokogiri
+ab26d27c2c9fd05e01b8dfacff85e9a988a830e8		branch 'issue-572-tests-for-xpath-bug-on-fragment-roots' of https://github.com/sparklemotion/nokogiri
+11df7c92c8de2a6c2274c8169f264e62b75e02f1		branch 'm17n' of https://github.com/sparklemotion/nokogiri
+d95858f860d9b1fffbf0c09daa318131cc6cc648		branch 'main' of https://github.com/sparklemotion/nokogiri
+c8982fb95d264de07c1c87932b32cdc25e3b917d		branch 'nogvl' of https://github.com/sparklemotion/nokogiri
+a9a3717154bdb99ed6d0d785736eb471c9d6a954		branch 'v1.10.x' of https://github.com/sparklemotion/nokogiri
+338092f1f7d3668123f0f5dd0dd6cfc8978477bb		branch 'v1.11.x' of https://github.com/sparklemotion/nokogiri
+47f6a461fdc3e375b30522259e48569fb578dece		branch 'v1.12.x' of https://github.com/sparklemotion/nokogiri
+b7817b6a62ac210203a451d1a691a824288e9eab		branch 'v1.13.x' of https://github.com/sparklemotion/nokogiri
+66b46cf55565fc06396eff8b5c955dc302ca81ed		branch 'v1.4.x' of https://github.com/sparklemotion/nokogiri
+1c49855dc9be328b3033b7520a0792a9170df8aa		branch 'v1.5.x' of https://github.com/sparklemotion/nokogiri
+594bf2f79dbd899d8cb77ad813bff734139a9cb2		branch 'v1.6.4.x' of https://github.com/sparklemotion/nokogiri
+024464cb0ee5b3b2e277995475ffe2a9493f7c3b		branch 'v1.6.6.x' of https://github.com/sparklemotion/nokogiri
+62b67a8631e2478e1990cc025834d82fd3662ec1		branch 'v1.6.7.x' of https://github.com/sparklemotion/nokogiri
+423d0ce294e534307beebba8eedecf871d39490e		branch 'v1.7.x' of https://github.com/sparklemotion/nokogiri
+ea852e7e90fa3025bd7cdd540b99d5d5b94849c1		branch 'v1.8.x' of https://github.com/sparklemotion/nokogiri
+1be883111f80048d6e88201d263c83e0c37c90fa	not-for-merge	tag '1.7.0.1-linux-binary1' of https://github.com/sparklemotion/nokogiri
+0466db4268c9958ae70bf1995a992a7783c855ea	not-for-merge	tag 'REL_1.0.0' of https://github.com/sparklemotion/nokogiri
+5d50d2a7dcdef7bbbbee73564a577e6fe1a236ac	not-for-merge	tag 'REL_1.0.1' of https://github.com/sparklemotion/nokogiri
+8be88f48e306033c5c46d3520d5007f0b532f6c4	not-for-merge	tag 'REL_1.0.2' of https://github.com/sparklemotion/nokogiri
+552b4f907c112f8243c398b8d81678dc40c3409c	not-for-merge	tag 'REL_1.0.3' of https://github.com/sparklemotion/nokogiri
+fe5a023aca8873cd9d2fad6eca8b1aacc3a693f6	not-for-merge	tag 'REL_1.0.4' of https://github.com/sparklemotion/nokogiri
+259282d0eba0aa7931c6bf595c66457aef2c4a63	not-for-merge	tag 'REL_1.0.5' of https://github.com/sparklemotion/nokogiri
+72fe924f319c95becde0d9784c538afeaa7a91f3	not-for-merge	tag 'REL_1.0.6' of https://github.com/sparklemotion/nokogiri
+8f7adfa325918528bc768d5f10553239f6ae2fcd	not-for-merge	tag 'REL_1.0.7' of https://github.com/sparklemotion/nokogiri
+fa3fd29653b84aa0a8f256ba59bedfa941813627	not-for-merge	tag 'REL_1.1.0' of https://github.com/sparklemotion/nokogiri
+235b85b8fa1c5fe6826f3e31d42fa5f04e80d084	not-for-merge	tag 'REL_1.1.1' of https://github.com/sparklemotion/nokogiri
+2189e2b520bfeaee9ec56c492db4b4ee9d3b1372	not-for-merge	tag 'REL_1.2.0' of https://github.com/sparklemotion/nokogiri
+50a6011e2529e67992459bb55a86e35a32ade292	not-for-merge	tag 'REL_1.2.1' of https://github.com/sparklemotion/nokogiri
+850e04fbc728d4e23f93c73de5653405d193d48b	not-for-merge	tag 'REL_1.2.2' of https://github.com/sparklemotion/nokogiri
+7bde5ccc790d3701ad2aa011ce0b42f7c15967ec	not-for-merge	tag 'REL_1.2.3' of https://github.com/sparklemotion/nokogiri
+1aa3e76aa10d153f1ff1b0521999330218f8f78b	not-for-merge	tag 'REL_1.3.0' of https://github.com/sparklemotion/nokogiri
+f745e9f1168b1a627d21228e246fe1859d06681b	not-for-merge	tag 'REL_1.3.0rc1' of https://github.com/sparklemotion/nokogiri
+0488e89300d4202d1ed0fe0a298bc2d9ddfe2e3f	not-for-merge	tag 'REL_1.3.1' of https://github.com/sparklemotion/nokogiri
+7c390f4ed869a2d177f6eee5655191982056bc82	not-for-merge	tag 'REL_1.3.2' of https://github.com/sparklemotion/nokogiri
+5ef850b5df123a56fd63755710070d94028e6c5d	not-for-merge	tag 'REL_1.3.3' of https://github.com/sparklemotion/nokogiri
+ab6a47a91f3bcdf22c98a5bb6b66cf80f5b16286	not-for-merge	tag 'REL_1.4.0' of https://github.com/sparklemotion/nokogiri
+e3ee0fb110d408bc0fffd2e07e1af65563e39b3e	not-for-merge	tag 'REL_1.4.1' of https://github.com/sparklemotion/nokogiri
+0e2a3d903535167f64801087f819ec0037e0cc86	not-for-merge	tag 'REL_1.4.2' of https://github.com/sparklemotion/nokogiri
+0c892bbc271d79166f1daebd8219c218e49747b8	not-for-merge	tag 'REL_1.4.3' of https://github.com/sparklemotion/nokogiri
+17c2ced45afba9d3d3db2e3bd8c5b01e6ce12417	not-for-merge	tag 'REL_1.4.3.1' of https://github.com/sparklemotion/nokogiri
+9cbc8da682d5cc76e7e7531642d284679162f8b7	not-for-merge	tag 'REL_1.5.0.beta.1' of https://github.com/sparklemotion/nokogiri
+126847685c728384c1f0e7e51cc75f6c0ae4f87f	not-for-merge	tag 'REL_1.5.0.beta.2' of https://github.com/sparklemotion/nokogiri
+4a448d1924d99f32982be17c2a6256fd42afa330	not-for-merge	tag 'v1.10.0' of https://github.com/sparklemotion/nokogiri
+416651c519152a40fd93177628bfe4e13fb4bd53	not-for-merge	tag 'v1.10.0.rc1' of https://github.com/sparklemotion/nokogiri
+320aadc771b52cbc3f7bec1deeb2200e5c6e243d	not-for-merge	tag 'v1.10.1' of https://github.com/sparklemotion/nokogiri
+a9a3717154bdb99ed6d0d785736eb471c9d6a954	not-for-merge	tag 'v1.10.10' of https://github.com/sparklemotion/nokogiri
+93d1a80a154f33a925f2b7d3a127add194cc763c	not-for-merge	tag 'v1.10.2' of https://github.com/sparklemotion/nokogiri
+8e24af59af22c0bf61376d8c9ae6a85e5b2ba3bd	not-for-merge	tag 'v1.10.3' of https://github.com/sparklemotion/nokogiri
+beb832e3a67ba9aef1b4e83640bc8fd08fbc6da5	not-for-merge	tag 'v1.10.4' of https://github.com/sparklemotion/nokogiri
+1bc2ff9f6218e1f814b18040e5bbb49b7b7bf60b	not-for-merge	tag 'v1.10.5' of https://github.com/sparklemotion/nokogiri
+13132fcf9046acdc6cfac30e9da20d2724cb8a00	not-for-merge	tag 'v1.10.6' of https://github.com/sparklemotion/nokogiri
+e6b3229ec53ddf70f1d198bba0d3fc13fde842a8	not-for-merge	tag 'v1.10.7' of https://github.com/sparklemotion/nokogiri
+6ce10d15d7af6ad65813a495eaf168f73eba211c	not-for-merge	tag 'v1.10.8' of https://github.com/sparklemotion/nokogiri
+e2e191de387f854619bc8a3f9b39ca687fe0bf31	not-for-merge	tag 'v1.10.9' of https://github.com/sparklemotion/nokogiri
+1c1fba5e34bf620d83e96fb9dcbd7393c05a03e5	not-for-merge	tag 'v1.11.0' of https://github.com/sparklemotion/nokogiri
+8ce75d120acfe6a04d3e2c158d48050286ad3816	not-for-merge	tag 'v1.11.0.rc1' of https://github.com/sparklemotion/nokogiri
+3d1984436c49784dd7e39317b7086750df112267	not-for-merge	tag 'v1.11.0.rc2' of https://github.com/sparklemotion/nokogiri
+959db1d8a6d6afaaa5e2cef554492e367f1791ff	not-for-merge	tag 'v1.11.0.rc3' of https://github.com/sparklemotion/nokogiri
+f7bc31f8c246c3d6db1cd2b7feee2041630b0778	not-for-merge	tag 'v1.11.0.rc4' of https://github.com/sparklemotion/nokogiri
+7be6f04aa2700e818f8a3bfe82801b5bd6e8c4f4	not-for-merge	tag 'v1.11.1' of https://github.com/sparklemotion/nokogiri
+2975cb4ab686ef048053eb8475b42b5e6129c460	not-for-merge	tag 'v1.11.2' of https://github.com/sparklemotion/nokogiri
+d244fb828d4c147952484ea92a5d341f2633a333	not-for-merge	tag 'v1.11.3' of https://github.com/sparklemotion/nokogiri
+9d69b44ed3357b8069856083d39ee418cd10109b	not-for-merge	tag 'v1.11.4' of https://github.com/sparklemotion/nokogiri
+e43f521caa4b29deba4089bd83ae2709c19c5942	not-for-merge	tag 'v1.11.5' of https://github.com/sparklemotion/nokogiri
+a48c305b7cb2bf1c7dc3f5881db23052428342ec	not-for-merge	tag 'v1.11.6' of https://github.com/sparklemotion/nokogiri
+0a6681e5de17c2f03b5c7f473e3356dc7490c080	not-for-merge	tag 'v1.11.7' of https://github.com/sparklemotion/nokogiri
+8cafcee8e2a9b13da93c80d28f1f35062eeae45f	not-for-merge	tag 'v1.12.0' of https://github.com/sparklemotion/nokogiri
+3399e1649bbe904863e9d949a4814291e794948a	not-for-merge	tag 'v1.12.0.rc1' of https://github.com/sparklemotion/nokogiri
+3457f441a7a767081397aa5c1ca1d2c3a8a5e0e7	not-for-merge	tag 'v1.12.1' of https://github.com/sparklemotion/nokogiri
+f1a5cae90223d5ad0ab5a6fa57041c3629fe569f	not-for-merge	tag 'v1.12.2' of https://github.com/sparklemotion/nokogiri
+daeea44a612b90796805375ce9b7680f34e1cf71	not-for-merge	tag 'v1.12.3' of https://github.com/sparklemotion/nokogiri
+564ac1787303332e0b2b92311ff6f1b30a893eae	not-for-merge	tag 'v1.12.4' of https://github.com/sparklemotion/nokogiri
+47f6a461fdc3e375b30522259e48569fb578dece	not-for-merge	tag 'v1.12.5' of https://github.com/sparklemotion/nokogiri
+be178293898e1f0002df0477fc7d33a6841aac2b	not-for-merge	tag 'v1.13.0' of https://github.com/sparklemotion/nokogiri
+f2fa79131f26e59b0607513f2f43391e65c09520	not-for-merge	tag 'v1.13.1' of https://github.com/sparklemotion/nokogiri
+49b86631b7e84ec29b4b445f5a2f22fbcbf258b0	not-for-merge	tag 'v1.13.2' of https://github.com/sparklemotion/nokogiri
+7d74cedf275b684d8abd0c2ee281ff6a8adde8ef	not-for-merge	tag 'v1.13.3' of https://github.com/sparklemotion/nokogiri
+4e2c4b2571dc58af294f61e6fd923f0d1698c036	not-for-merge	tag 'v1.13.4' of https://github.com/sparklemotion/nokogiri
+22c9e5b300c27a377fdde37c17eb9d07dd7322d0	not-for-merge	tag 'v1.13.5' of https://github.com/sparklemotion/nokogiri
+b7817b6a62ac210203a451d1a691a824288e9eab	not-for-merge	tag 'v1.13.6' of https://github.com/sparklemotion/nokogiri
+2bdd7e0e6cc50a0345f05f5c9cf313fac46dd126	not-for-merge	tag 'v1.4.4' of https://github.com/sparklemotion/nokogiri
+9d1f92aab537826d42fa63c0511c36a122263f96	not-for-merge	tag 'v1.4.4.1' of https://github.com/sparklemotion/nokogiri
+33c0f4c8ff6404e472613a204e1e906c32c92442	not-for-merge	tag 'v1.4.4.2' of https://github.com/sparklemotion/nokogiri
+cf0eef9a95375178dc6bcbc230fac4b1598cabbc	not-for-merge	tag 'v1.4.5' of https://github.com/sparklemotion/nokogiri
+8851846ccf2c0f75487d47f5b5475b538ccbe862	not-for-merge	tag 'v1.4.6' of https://github.com/sparklemotion/nokogiri
+66b46cf55565fc06396eff8b5c955dc302ca81ed	not-for-merge	tag 'v1.4.7' of https://github.com/sparklemotion/nokogiri
+965b2bc081714315e62594de5849628cf33cfe1f	not-for-merge	tag 'v1.5.0' of https://github.com/sparklemotion/nokogiri
+3581accbc7ee0a13898b1cf05c836d3edcff2523	not-for-merge	tag 'v1.5.0.beta.3' of https://github.com/sparklemotion/nokogiri
+d56e49b4244dbbc61d43dbcd4b01b3dce9ac05aa	not-for-merge	tag 'v1.5.0.beta.4' of https://github.com/sparklemotion/nokogiri
+8c253d20421a597c0c77bf42227258bc8d258193	not-for-merge	tag 'v1.5.1' of https://github.com/sparklemotion/nokogiri
+62d8cfa03de46606cd904bd425a5ffa72cae9e5b	not-for-merge	tag 'v1.5.1.rc1' of https://github.com/sparklemotion/nokogiri
+74da67d9e8f7f3e7a76edc38477a22667092390c	not-for-merge	tag 'v1.5.10' of https://github.com/sparklemotion/nokogiri
+58a94e11101ce0b95a332840c21e9fc8ec9352cf	not-for-merge	tag 'v1.5.11' of https://github.com/sparklemotion/nokogiri
+e69ff7a14e138b64db13b1e71e7951a63a268c4b	not-for-merge	tag 'v1.5.2' of https://github.com/sparklemotion/nokogiri
+ceede71342dad1935a06896be55e13299b53b959	not-for-merge	tag 'v1.5.3' of https://github.com/sparklemotion/nokogiri
+14f65e7fc7d2331cce2f35d234be177b271b9dc0	not-for-merge	tag 'v1.5.3.rc1' of https://github.com/sparklemotion/nokogiri
+02bc37d7c3657344a5266bae0652f3c65b579a93	not-for-merge	tag 'v1.5.3.rc2' of https://github.com/sparklemotion/nokogiri
+993d41b6bbaef6f303966493a0f83e4c721e1970	not-for-merge	tag 'v1.5.3.rc3' of https://github.com/sparklemotion/nokogiri
+b97107c5956da8344557ca82075715fefa8ae27a	not-for-merge	tag 'v1.5.3.rc4' of https://github.com/sparklemotion/nokogiri
+7be99c42e1f32b7cdc7b2079f38841489d1006a9	not-for-merge	tag 'v1.5.3.rc5' of https://github.com/sparklemotion/nokogiri
+8ae0eab85c4b7f1bea2caee08531901b32473787	not-for-merge	tag 'v1.5.3.rc6' of https://github.com/sparklemotion/nokogiri
+e795d1bd1b7877d0aea7bbc5415457f0d40f7b87	not-for-merge	tag 'v1.5.4' of https://github.com/sparklemotion/nokogiri
+5a9cf21d91de64b341d72243dbf07432ab9076ae	not-for-merge	tag 'v1.5.4.rc1' of https://github.com/sparklemotion/nokogiri
+31fc06ec8a4dd1ebb65d4519f39c20d98306fa6e	not-for-merge	tag 'v1.5.4.rc2' of https://github.com/sparklemotion/nokogiri
+26b53db873f49be64c7ee80419a7e1134689ee13	not-for-merge	tag 'v1.5.4.rc3' of https://github.com/sparklemotion/nokogiri
+9fa99a818f510803790d0f94a328c70c7c383c9b	not-for-merge	tag 'v1.5.5' of https://github.com/sparklemotion/nokogiri
+3925dba2746f85b17bce0f7fd3f2d1653b3efe3c	not-for-merge	tag 'v1.5.5.rc1' of https://github.com/sparklemotion/nokogiri
+14662fa1d3eca57ee6c50b7e743843fd3beb55cd	not-for-merge	tag 'v1.5.5.rc2' of https://github.com/sparklemotion/nokogiri
+a4a989407dc0a9dd20aa47b1660e984bc5086235	not-for-merge	tag 'v1.5.5.rc3' of https://github.com/sparklemotion/nokogiri
+45ea76ca6adb1fa21e4afab2de4f4585de5e4453	not-for-merge	tag 'v1.5.6' of https://github.com/sparklemotion/nokogiri
+fbcf42f95be4bebf3d2d5fef06e6975da0a2d36d	not-for-merge	tag 'v1.5.6.rc1' of https://github.com/sparklemotion/nokogiri
+34d8dfd9bb921962f9d5a549785d62ae3536b9b2	not-for-merge	tag 'v1.5.6.rc2' of https://github.com/sparklemotion/nokogiri
+05eff2f6cae96842d4f291d3d72ee9f720037a11	not-for-merge	tag 'v1.5.7' of https://github.com/sparklemotion/nokogiri
+2a47b0d9bd272a7f22fae4ac631b269eefa8a673	not-for-merge	tag 'v1.5.7.rc1' of https://github.com/sparklemotion/nokogiri
+9b33c20231e68aaf1f33bda3b709f6633fb681b1	not-for-merge	tag 'v1.5.7.rc2' of https://github.com/sparklemotion/nokogiri
+2324f7bce96ec9e67485009eac894ab55c7b9fc0	not-for-merge	tag 'v1.5.7.rc3' of https://github.com/sparklemotion/nokogiri
+ee4fca40f7624c761d42061d9352f01ea04e36a8	not-for-merge	tag 'v1.5.8' of https://github.com/sparklemotion/nokogiri
+0d3eca322e0931371ae09d74ac897bd0ff51596e	not-for-merge	tag 'v1.5.9' of https://github.com/sparklemotion/nokogiri
+9c9c04db9b526bace5822f3e6619eeb11dcd816e	not-for-merge	tag 'v1.6.0' of https://github.com/sparklemotion/nokogiri
+1a83e1a3bc413a25021d9dbc7f605a449f8bed08	not-for-merge	tag 'v1.6.0.rc1' of https://github.com/sparklemotion/nokogiri
+e324646d7882bb56cb916dad2e9b0eca0d9792f5	not-for-merge	tag 'v1.6.1' of https://github.com/sparklemotion/nokogiri
+2de71f5038723b4112d4f5a95dcef0e57b88658f	not-for-merge	tag 'v1.6.1.beta.1' of https://github.com/sparklemotion/nokogiri
+5e79330829bc812c3d2c2abff86ca528d4bf3dbd	not-for-merge	tag 'v1.6.2' of https://github.com/sparklemotion/nokogiri
+56854242f5f8f3d0823ceb01a3857783ee3dc4d1	not-for-merge	tag 'v1.6.2.1' of https://github.com/sparklemotion/nokogiri
+940e217e66e35c4d061c522790a9093685cf8040	not-for-merge	tag 'v1.6.2.beta.1' of https://github.com/sparklemotion/nokogiri
+5539d3b58c84d5740eaba1f854f1499801a6c90d	not-for-merge	tag 'v1.6.2.beta.2' of https://github.com/sparklemotion/nokogiri
+5dd31c178818ea1e4ad7b8b6a95ceb57eeebbc8d	not-for-merge	tag 'v1.6.2.rc1' of https://github.com/sparklemotion/nokogiri
+163103b0eaf904575e62909eddc00dcc9e425a2a	not-for-merge	tag 'v1.6.2.rc2' of https://github.com/sparklemotion/nokogiri
+02d5c9fd6f14dd9d3aeb34c55c8930301ed2250b	not-for-merge	tag 'v1.6.2.rc3' of https://github.com/sparklemotion/nokogiri
+8f22560ab796e77a9a637c92cd5bf79261f1ad84	not-for-merge	tag 'v1.6.3' of https://github.com/sparklemotion/nokogiri
+cff4e23166382db4603892cec810605e48ab2f5f	not-for-merge	tag 'v1.6.3.1' of https://github.com/sparklemotion/nokogiri
+c23b4a595e5fbd9f9a033ed95cd0f96697b5b529	not-for-merge	tag 'v1.6.3.rc1' of https://github.com/sparklemotion/nokogiri
+2aa9a20322507c5df4811c06cdcd6c3114ce64c8	not-for-merge	tag 'v1.6.3.rc2' of https://github.com/sparklemotion/nokogiri
+a3e29baf2befa9d6640c8a11fd709555d235327b	not-for-merge	tag 'v1.6.3.rc3' of https://github.com/sparklemotion/nokogiri
+ac837bedc95fce1e45750d4869c699f9aac08c13	not-for-merge	tag 'v1.6.4' of https://github.com/sparklemotion/nokogiri
+594bf2f79dbd899d8cb77ad813bff734139a9cb2	not-for-merge	tag 'v1.6.4.1' of https://github.com/sparklemotion/nokogiri
+9fbf418a05439a053aee98db17951cc9b76b2924	not-for-merge	tag 'v1.6.5' of https://github.com/sparklemotion/nokogiri
+ed2550e997cafa9d747d4260d19a1723c1f76bf1	not-for-merge	tag 'v1.6.6' of https://github.com/sparklemotion/nokogiri
+77b1e76f6d6ecde9d6fdb7ec726ad6c7a3509363	not-for-merge	tag 'v1.6.6.1' of https://github.com/sparklemotion/nokogiri
+885c7d66e42d701364e857ba97899d12ae9b9751	not-for-merge	tag 'v1.6.6.2' of https://github.com/sparklemotion/nokogiri
+f5b8e91bcabd34d190c3a183ab86398edd75b9b4	not-for-merge	tag 'v1.6.6.3' of https://github.com/sparklemotion/nokogiri
+2896e941252c611d112a4a11895a7da369b40c10	not-for-merge	tag 'v1.6.6.4' of https://github.com/sparklemotion/nokogiri
+bbd96418ab581c662dbbe14193cdb73cbeb34247	not-for-merge	tag 'v1.6.7' of https://github.com/sparklemotion/nokogiri
+48c4052f0a3c0e794fdf4680241a4c5a3b5cb1f2	not-for-merge	tag 'v1.6.7.1' of https://github.com/sparklemotion/nokogiri
+343c207ee3c61162497f56973e8fb804e9b8add7	not-for-merge	tag 'v1.6.7.2' of https://github.com/sparklemotion/nokogiri
+cc96d5e661c95079cc352decc0bdcfcfde39d5ef	not-for-merge	tag 'v1.6.7.rc1' of https://github.com/sparklemotion/nokogiri
+8987f97785939062230626173e91469e3288e129	not-for-merge	tag 'v1.6.7.rc2' of https://github.com/sparklemotion/nokogiri
+5f93bbc61a02f4994f4fe24aa5e7843144fe01e6	not-for-merge	tag 'v1.6.7.rc3' of https://github.com/sparklemotion/nokogiri
+38cfebbcc1848877ab6d906e89752de5fd977d79	not-for-merge	tag 'v1.6.7.rc4' of https://github.com/sparklemotion/nokogiri
+1103a647ee84837c6f23c4fe21e554bc2d3708bf	not-for-merge	tag 'v1.6.8' of https://github.com/sparklemotion/nokogiri
+002e4d8481dcc15bbf23fb385cdf5ebfed892442	not-for-merge	tag 'v1.6.8.1' of https://github.com/sparklemotion/nokogiri
+0481c8bc2f6f86875e20d099643b0f14f156bbec	not-for-merge	tag 'v1.6.8.rc1' of https://github.com/sparklemotion/nokogiri
+cb13302341bbf5204cfa1353cf7ca1696418ea70	not-for-merge	tag 'v1.6.8.rc2' of https://github.com/sparklemotion/nokogiri
+567595313265115838107bd9f27f69dca2eae0c4	not-for-merge	tag 'v1.6.8.rc3' of https://github.com/sparklemotion/nokogiri
+c5e8e124a5266d0c2779dcd79ced8204d88bf16d	not-for-merge	tag 'v1.7.0' of https://github.com/sparklemotion/nokogiri
+e1f2c2de477b3bb455b5ac56b73d3f94a8f505c2	not-for-merge	tag 'v1.7.0.1' of https://github.com/sparklemotion/nokogiri
+d94ea11190db355481369a7d3cff25e950eaba03	not-for-merge	tag 'v1.7.1' of https://github.com/sparklemotion/nokogiri
+3c8d6736c81246f6cf6f641abfa96da7aa899020	not-for-merge	tag 'v1.7.2' of https://github.com/sparklemotion/nokogiri
+fe638ca19665f80e87a8df7fbba8716aa5235439	not-for-merge	tag 'v1.8.0' of https://github.com/sparklemotion/nokogiri
+1fa9d1853a6ca0a20c8086907318263022d5a42c	not-for-merge	tag 'v1.8.1' of https://github.com/sparklemotion/nokogiri
+f80f4ad9f553811435aa2c40908a49fcd26c4533	not-for-merge	tag 'v1.8.2' of https://github.com/sparklemotion/nokogiri
+20e11c3f976395ee94982fcc893950d66490222f	not-for-merge	tag 'v1.8.3' of https://github.com/sparklemotion/nokogiri
+254f3414811b6d2fff8b0630efe4ce8d29778fb6	not-for-merge	tag 'v1.8.4' of https://github.com/sparklemotion/nokogiri
+e28fa4bb2ed6844c3c63f58062d034e7b99fc90c	not-for-merge	tag 'v1.8.5' of https://github.com/sparklemotion/nokogiri
+fff550cbfbfbc7da0ab6f5f16da37fb576afb4c2	not-for-merge	tag 'v1.9.0' of https://github.com/sparklemotion/nokogiri
+d4c546d0ca6b980bd7093c76dda97817f8fe7ee0	not-for-merge	tag 'v1.9.0.rc1' of https://github.com/sparklemotion/nokogiri
+db26a04e3d8f2b30456ae203d6c023b299a8e0f9	not-for-merge	tag 'v1.9.1' of https://github.com/sparklemotion/nokogiri

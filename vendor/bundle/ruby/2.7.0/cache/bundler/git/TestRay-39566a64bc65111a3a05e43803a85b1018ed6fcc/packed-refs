@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+ac72d988ed922aad290b3f5034827300606310ce refs/heads/edge_support
+ff4b21184cf0bba861852a01cbc8b8383784a96f refs/heads/master
+1e7cc978ebb3a2dbd85929ef4862685058859911 refs/tags/v1.0.0
+374e00b20978c27fa067d55dae457b1939ba87b8 refs/tags/v1.0.1
+aa47068c4c5731767955c3d65b5504b00978d54f refs/tags/v1.0.2
+4288f22749ada1c06022435b3d9880c4c5ffe920 refs/tags/v1.0.3
